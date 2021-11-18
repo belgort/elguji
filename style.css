@@ -9,6 +9,7 @@ main {
 }
 
 h1 {
+    text-align: center;
     color: #333333;
     background: #dadada;
     border: 1px solid #dadada;
